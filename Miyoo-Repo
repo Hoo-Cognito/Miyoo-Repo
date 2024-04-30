@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Hoo-Cognito/Miyoo-Repo/wiki
+git branch -M main
+git push -u origin main
