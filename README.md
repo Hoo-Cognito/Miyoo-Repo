@@ -1,3 +1,5 @@
+For the Miyoo A30 [CLICK HERE](https://github.com/Hoo-Cognito/Other-Handheld-Repos/wiki/Miyoo-A30)
+
 **Index:**
 -
 
