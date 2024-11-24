@@ -14,4 +14,8 @@ For the Miyoo A30 [CLICK HERE](https://github.com/Hoo-Cognito/Other-Handheld-Rep
 - FAQ --------------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/FAQ)
 - Overlays ---------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Overlays)
 - Changelog --------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Changelog)
+- Crash Course -----------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Crash-Course)
 - Monthly 5's ------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Monthly-Fives)
+- Tips & Tricks ----------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Tips-&-Tricks)
+- Story Time -------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/Story-Time)
+- STL. Files -------------------> [CLICK HERE](https://github.com/Hoo-Cognito/Miyoo-Repo/wiki/STL.-Files)
